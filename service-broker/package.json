@@ -1,0 +1,10 @@
+{
+  "name": "service-broker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Iqbal Mohammad Abdul Ghoni <iqballmags@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
