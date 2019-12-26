@@ -1,0 +1,8 @@
+{
+  "appId": "com.arsfiqball.mamangkot.penumpang",
+  "appName": "Penumpang Mamangkot",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "cordova": {}
+}
